@@ -49,4 +49,4 @@ public static void printConversion(double kilometersPerHour) {
     }
 ```
 
-The second method was created in order to print the message "Invalid value" if the input was less than 0. Otherwise, it should convert kilometers to miles per hour and print a message using the variables `long milesPerHour` and `kilometersPerHour` in addition to "km/h" and "mi/h".
+The second method was created in order to print the message "Invalid value" if the input was less than 0. Otherwise, it should convert kilometers to miles per hour and print a message using the variables `long milesPerHour` and `kilometersPerHour` in addition to "km/h" and "mi/h" texts.
