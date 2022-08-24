@@ -8,3 +8,7 @@ DecimalComparator.iml
 
 EqualityPrinter/.idea
 EqualityPrinter.iml
+
+/out
+/.idea
+.iml
