@@ -1,3 +1,10 @@
+AreaCalculator/out
+AreaCalculator/.idea
+AreaCalculator.iml
+
 DecimalComparator/out
 DecimalComparator/.idea
 DecimalComparator.iml
+
+EqualityPrinter/.idea
+EqualityPrinter.iml
