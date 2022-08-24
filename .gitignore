@@ -9,6 +9,11 @@ DecimalComparator.iml
 EqualityPrinter/.idea
 EqualityPrinter.iml
 
-/out
-/.idea
-.iml
+EqualSumChecker/out
+EqualSumChecker/.idea
+EqualSumChecker.iml
+
+LeapYearCalculator/out
+LeapYearCalculator/.idea
+LeapYearCalculator.iml
+
