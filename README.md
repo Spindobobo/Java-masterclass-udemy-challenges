@@ -15,3 +15,21 @@ This is a repository dedicated to explain how I solved the challenges of the Ude
 - Minutes to Years and Days Calculator
 - Equality Printer
 - Playing Cat
+
+## Challenges related to control flow statements (switch, while loops, do while loops, for loops)
+
+- Number of Days in Month
+- Sum odd
+- Number palindrome
+- First and Last Digit Sum
+- Even Digit Sum
+- Shared Digit
+- Last Digit Checker
+- Greatest Common Divisor
+- All factors
+- Perfect Number
+- Number to Words
+- Flour Pack Problem
+- Largest Prime
+- Input Calculator
+- Paint Job
